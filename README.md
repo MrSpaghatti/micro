@@ -1,2 +1,2 @@
-# nano
-cheap nano
+# micro
+cheap micro
