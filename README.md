@@ -1,7 +1,7 @@
 # Micro
 
 **Description:**  
-`Micro` is a project that focuses on cheap microcontrollers programmed in C. 
+`Micro` is my attempt at lightweight text editor written in pure C. 
 
 ## Table of Contents
 
@@ -12,12 +12,11 @@
 
 ## Introduction
 
-Welcome to the `Micro` project! This repository contains code and resources for developing and experimenting with microcontrollers using the C programming language. 
+Welcome to the `Micro` project! This repository contains code for my text editor. This project's purpose was initially to help me learn C, but it's slowly expanded into an attempt at a fully riced text editor for myself.
 
 ## Features
 
 - Simple and efficient code written in C
-- Designed for low-cost microcontroller projects
 - Easy to understand and modify
 
 ## Installation
