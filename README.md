@@ -3,8 +3,17 @@
 **Description:**  
 `Micro` is my attempt at lightweight text editor written in pure C. 
 
+## TODO
+ - [ ] CONFIG file support
+    - [ ] JSON, INI, or YAML
+    - [ ] Keybinds
+    - [ ] Themes
+ - [ ] support more file types
+    - [ ] syntax highlighting
+
 ## Table of Contents
 
+- [TODO](#TODO)
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
