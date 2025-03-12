@@ -4,7 +4,7 @@
 `Micro` is my attempt at lightweight text editor written in pure C. 
 
 ## TODO
- - [ ] CONFIG file support
+ - [-] CONFIG file support
     - [ ] JSON, INI, or YAML
     - [ ] Keybinds
     - [ ] Themes
